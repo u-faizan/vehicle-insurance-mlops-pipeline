@@ -2,6 +2,8 @@
 
 An end-to-end **MLOps pipeline** that predicts whether a health insurance customer is also interested in vehicle insurance (cross-sell prediction). Built with a modular, production-grade architecture featuring automated CI/CD, cloud model storage, and a live inference API.
 
+![End-to-End Vehicle MLOps Architecture](assets/architecture.png)
+
 ---
 
 ## Table of Contents
